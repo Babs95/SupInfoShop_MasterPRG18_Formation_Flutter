@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959997059642",
+    "project_id": "supinfoshopmasterprg18",
+    "storage_bucket": "supinfoshopmasterprg18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959997059642:android:6a6139e23af1bbc2f84b03",
+        "android_client_info": {
+          "package_name": "com.supinfo.master_prg18_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMJyNLecERKeEPy3tutdeteomyreAbdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
